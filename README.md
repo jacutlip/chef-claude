@@ -42,10 +42,10 @@ Follow these steps to set up and run Chef Claude on your local machine.
 
 5. Open your browser and navigate to `http://localhost:5173` to use the application.
 
-## Acknowledgements
+## License
 
-Special thanks to the React community for their invaluable resources and support, which made building this project a seamless experience.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you like.
 
----
+## Acknowledgments
 
-Enjoy using Chef Claude to create amazing recipes!  
+Special thanks to the React community for their excellent resources and tools.
